@@ -1,0 +1,60 @@
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/refint/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/4 - Mad Lib/obj/Debug/net6.0/ref/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/refint/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/5 - Mad Lib/obj/Debug/net6.0/ref/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/refint/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.deps.json
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/bin/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/4 - Mad Lib.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/5 - Mad Lib/obj/Debug/net6.0/ref/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/bin/Debug/net6.0/4 - Mad Lib
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/bin/Debug/net6.0/4 - Mad Lib.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/bin/Debug/net6.0/4 - Mad Lib.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/bin/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/bin/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/refint/4 - Mad Lib.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/4 - Mad Lib.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/Debug/net6.0/ref/4 - Mad Lib.dll
