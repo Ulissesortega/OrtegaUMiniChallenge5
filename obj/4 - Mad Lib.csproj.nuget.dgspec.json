@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/4 - Mad Lib.csproj": {}
+    "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge5/4 - Mad Lib.csproj": {}
   },
   "projects": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/4 - Mad Lib.csproj": {
+    "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge5/4 - Mad Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/4 - Mad Lib.csproj",
+        "projectUniqueName": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge5/4 - Mad Lib.csproj",
         "projectName": "4 - Mad Lib",
-        "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/4 - Mad Lib.csproj",
+        "projectPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge5/4 - Mad Lib.csproj",
         "packagesPath": "/Users/ulisesortega/.nuget/packages/",
-        "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge5/obj/",
+        "outputPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
